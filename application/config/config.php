@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/chart';
+$config['base_url']	= 'http://pricetrend.sinaapp.com/';
 
 /*
 |--------------------------------------------------------------------------

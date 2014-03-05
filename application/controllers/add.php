@@ -44,10 +44,15 @@ class Add extends CI_Controller {
 
 	if ($id = $this->datas->get_data($data)) {
 		$data['price'] = $this->input->get('price');
- 		$this->datas->updata_data($id[0]->id,$data);
+    if (abs($data['price']-$id[0]->price)<300) {//更新价格不超过300差价
+      $this->datas->updata_data($id[0]->id,$data);
+    }
  	}else{
  		$data['price'] = $this->input->get('price');
- 		$this->datas->add_data($data);
+    if ($data['price']>1800) {
+      $this->datas->add_data($data);
+    }
+ 		
  	}
  	redirect(base_url()."add"); 
  }

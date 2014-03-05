@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
-<html>
+<html >
 <head>
 	<title>Apple 产品港版价格走势-添加报价</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<link rel="stylesheet" href="./style.css" media="screen" type="text/css" />
 	<link href="./font-awesome.css" rel="stylesheet">
 </head>
@@ -15,7 +16,7 @@
 		<li><a href="ipadminiretina"><span class="icon icon-apple"></span> iPad Mini Retina</a></li>
 		<li><a href="ipadmini"><span class="icon icon-apple"></span> iPad Mini</a></li>
 		<li><a href="rmbp"><span class="icon icon-apple"></span> Macbook Pro Retina</a></li>
-		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air Retina</a></li>
+		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air</a></li>
 		<li><a href="imac"><span class="icon icon-apple"></span> iMac</a></li>
 		<li><a href="macmini"><span class="icon icon-apple"></span> Mac Mini</a></li>
 	</ul>
@@ -373,7 +374,7 @@
 		<form action="add/handle/rmba" >
 			<table>
 				<tr>
-					<td width="150">Macbook Air Retina</td>
+					<td width="150">Macbook Air</td>
 					<td>
 						<select name="color" id="color">
 							<option value="MD711">MD711</option>

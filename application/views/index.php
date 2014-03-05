@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <title>Apple 产品港版价格走势</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
@@ -60,8 +60,8 @@
 
         <li id="logo_005">
           <a href="rmba">
-            <img src="images/7.png" width="240" height="120" alt="Macbook Air Retina"></a>
-            <span><a href="rmba">Macbook Air Retina</a></span>
+            <img src="images/7.png" width="240" height="120" alt="Macbook Air"></a>
+            <span><a href="rmba">Macbook Air</a></span>
           </li>
 
         <li class="four" id="logo_006">

@@ -2,6 +2,7 @@
 <html>
 
 <head>  
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 
 	<script type="text/javascript">
@@ -14,7 +15,7 @@
       resetText:"重置",
     });
 
-	var url  = 'data/index/rmba/0/MD711';
+	var url  = 'data/index/rmba/11/MD711';
 	$.ajax({
 	    type : "GET",
 	    url  : url,
@@ -26,7 +27,7 @@
 				zoomEnabled:true,
 				//backgroundColor: "#185385",
 				title:{
-					text: "Macbook Air Retina MD711 港版价格走势图",
+					text: "Macbook Air MD711 港版价格走势图",
 					fontColor:"#185385",
 				},
 				toolTip: {
@@ -64,7 +65,7 @@
 	});//AJAX
 
 
-	var url  = 'data/index/rmba/0/MD712';
+	var url  = 'data/index/rmba/11/MD712';
 	$.ajax({
 	    type : "GET",
 	    url  : url,
@@ -76,7 +77,7 @@
 				zoomEnabled:true,
 				//backgroundColor: "#185385",
 				title:{
-					text: "Macbook Air Retina MD712 港版价格走势图",
+					text: "Macbook Air MD712 港版价格走势图",
 					fontColor:"#185385",
 				},
 				toolTip: {
@@ -114,7 +115,7 @@
 	});//AJAX
 
 
-	var url  = 'data/index/rmba/0/MD760';
+	var url  = 'data/index/rmba/13/MD760';
 	$.ajax({
 	    type : "GET",
 	    url  : url,
@@ -126,7 +127,7 @@
 				zoomEnabled:true,
 				//backgroundColor: "#185385",
 				title:{
-					text: "Macbook Air Retina MD760 港版价格走势图",
+					text: "Macbook Air MD760 港版价格走势图",
 					fontColor:"#185385",
 				},
 				toolTip: {
@@ -164,7 +165,7 @@
 	});//AJAX
 
 
-	var url  = 'data/index/rmba/0/MD761';
+	var url  = 'data/index/rmba/13/MD761';
 	$.ajax({
 	    type : "GET",
 	    url  : url,
@@ -176,7 +177,7 @@
 				zoomEnabled:true,
 				//backgroundColor: "#185385",
 				title:{
-					text: "Macbook Air Retina MD761 港版价格走势图",
+					text: "Macbook Air MD761 港版价格走势图",
 					fontColor:"#185385",
 				},
 				toolTip: {
@@ -227,7 +228,7 @@
 
 </script>
 <script type="text/javascript" src="./canvasjs.min.js"></script>
-<title>Apple 产品港版价格走势-Macbook Air Retina</title>
+<title>Apple 产品港版价格走势-Macbook Air</title>
 <link rel="stylesheet" href="./style.css" media="screen" type="text/css" />
 <link href="./font-awesome.css" rel="stylesheet">
 </head>
@@ -241,7 +242,7 @@
 		<li><a href="ipadminiretina"><span class="icon icon-apple"></span> iPad Mini Retina</a></li>
 		<li><a href="ipadmini"><span class="icon icon-apple"></span> iPad Mini</a></li>
 		<li><a href="rmbp"><span class="icon icon-apple"></span> Macbook Pro Retina</a></li>
-		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air Retina</a></li>
+		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air</a></li>
 		<li><a href="imac"><span class="icon icon-apple"></span> iMac</a></li>
 		<li><a href="macmini"><span class="icon icon-apple"></span> Mac Mini</a></li>
 	</ul>

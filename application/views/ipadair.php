@@ -2,6 +2,7 @@
 <html>
 
 <head>  
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 
 	<script type="text/javascript">
@@ -279,7 +280,7 @@
 		<li><a href="ipadminiretina"><span class="icon icon-apple"></span> iPad Mini Retina</a></li>
 		<li><a href="ipadmini"><span class="icon icon-apple"></span> iPad Mini</a></li>
 		<li><a href="rmbp"><span class="icon icon-apple"></span> Macbook Pro Retina</a></li>
-		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air Retina</a></li>
+		<li><a href="rmba"><span class="icon icon-apple"></span> Macbook Air</a></li>
 		<li><a href="imac"><span class="icon icon-apple"></span> iMac</a></li>
 		<li><a href="macmini"><span class="icon icon-apple"></span> Mac Mini</a></li>
 	</ul>
