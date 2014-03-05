@@ -45,7 +45,7 @@
 | the active record class
 */
 
-$active_group = 'default';
+$active_group = 'local';
 $active_record = TRUE;
 
 $db['default']['hostname'] = SAE_MYSQL_HOST_M;
